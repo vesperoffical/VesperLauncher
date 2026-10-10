@@ -2,8 +2,8 @@
 <h1>Vesper Launcher</h1>
 <p>A sleek, fast, and modern custom Minecraft launcher designed to provide a streamlined, performance-focused gaming experience with intelligent runtime management and multi-loader support.</p>
 
-<img src="https://raw.githubusercontent.com/vesperoffical/VesperLauncher/refs/heads/main/assets/images/preview-1.png" alt="Vesper Launcher Preview" width="700">
-<img src="https://raw.githubusercontent.com/vesperoffical/VesperLauncher/refs/heads/main/assets/images/preview-2.png" alt="Vesper Launcher Preview" width="700">
+<img src="https://raw.githubusercontent.com/vesperoffical/VesperLauncher/refs/heads/main/images/Home-Lightmode.png" alt="Vesper Launcher Preview" width="700">
+<img src="https://raw.githubusercontent.com/vesperoffical/VesperLauncher/refs/heads/main/images/Customize-Lightmode.png" alt="Vesper Launcher Preview" width="700">
 <br>
 <br>
 <p>✨ Key Features</p>
